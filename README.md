@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on linux system
+- 🌱 I’m currently learning linux
+- 👯 I’m looking to collaborate on gnu linux
+- 🤔 I’m looking for help with open-source projects
+- 💬 Ask me about nothing
+- 📫 How to reach me: jorgerxbio@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 2+2=Pez
 <!--
 **jorgerxbio/jorgerxbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
