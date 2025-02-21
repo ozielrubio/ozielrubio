@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on linux system
 - 🌱 I’m currently learning linux
 - 👯 I’m looking to collaborate on gnu linux
-- 🤔 I’m looking for help with open-source projects
 - 💬 Ask me about nothing
 - 📫 How to reach me: ozielrubio@tuta.io
 - 😄 Pronouns: he/him
