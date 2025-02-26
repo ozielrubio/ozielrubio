@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning linux
 - 👯 I’m looking to collaborate on gnu linux
 - 💬 Ask me about nothing
-- 📫 How to reach me: ozielrubio@tuta.io
+- 📫 How to reach me: oziel.rubio.c@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 2+2=Pez
 <!--
